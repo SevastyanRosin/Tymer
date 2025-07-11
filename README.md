@@ -1,0 +1,2 @@
+# Tymer
+Time tracking bot
